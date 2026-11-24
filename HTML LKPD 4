@@ -1,0 +1,29 @@
+<html>
+    <body> 
+        <header>
+             <h1>Website RPL</h1> 
+        </header>
+        <nav> 
+            <a href="#">Home</a>
+            <a href="#">Materi</a>
+            <a href="#">Kontak</a> 
+        </nav> 
+        <main> 
+            <section>
+                 <h2>Profil RPL</h2>
+                 <p> Rekayasa Perangkat Lunak merupakan bidang yang mempelajari  pengembangan perangkat lunak. </p>
+            </section> 
+                 <article> 
+                    <h2>Belajar HTML</h2> 
+                    <p> HTML digunakan untuk membuat struktur halaman web. </p> 
+                 </article>
+                     <aside>
+                         <h3>Informasi</h3> 
+                         <p>Materi berikutnya adalah CSS.</p>
+                     </aside>
+         </main>
+         <footer>
+             <p>& copy; 2026 RPL</p> 
+         </footer>
+     </body> 
+ </html>
